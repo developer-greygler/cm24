@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat Mentor24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-greygler/cm24.git"
+  },
+  "author": "Greygler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer-greygler/cm24/issues"
+  },
+  "homepage": "https://github.com/developer-greygler/cm24#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
